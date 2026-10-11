@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/gps-hero.svg" alt="Animated GPS dots pulsing above a road with a car driving across" width="100%">
+  <img src="assets/gps-hero-v2.svg" alt="Animated GPS dots pulsing above a road with a car driving across" width="100%">
 </p>
 
 ---
