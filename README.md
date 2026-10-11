@@ -52,7 +52,7 @@ Open to collaboration on **Traccar development, integrations and enhancements**.
   <img src="assets/clients.svg" alt="Top 20 clients: ASAP Tracking, GeoTrack, GPS4YOU, DiscoveRig, Fleet Stack Global, findCar, findPet GPS, Saitrack GPS, Lance East Exotics, SmartTrackerz, WMR GPS, GVSS, TrackCar, Internet of Kaps, MKING, Connexiot, Alfaytri, Spartan Tracker, Skynasa, ISIGR" width="100%">
 </p>
 
-<p align="center"><sub>Trusted by <b>20</b> businesses across <b>15</b> countries, mostly in GPS tracking, fleet and IoT.</sub></p>
+<p align="center"><sub>Trusted by <b>50+</b> clients worldwide.</sub></p>
 
 <details>
 <summary><b>📋 View client details</b></summary>
