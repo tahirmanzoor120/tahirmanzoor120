@@ -43,8 +43,8 @@ Open to collaboration on **Traccar development, integrations and enhancements**.
 | Project | What it is |
 |---|---|
 | [**System Monitor**](https://github.com/tahirmanzoor120/system-monitor) | Tiny native macOS menu bar app showing live CPU, memory, storage, temperature and fan stats. Pure Swift and AppKit, no dependencies. [Download](https://github.com/tahirmanzoor120/system-monitor/releases/latest) |
-| [**Net Monitor**](https://github.com/tahirmanzoor120/net-monitor) | Native Swift network monitor for the macOS menu bar. |
-| [**traccar_sdk**](https://github.com/tahirmanzoor120/traccar_sdk) | Dart SDK for talking to a Traccar server from Flutter apps. |
+| [**Net Monitor**](https://github.com/tahirmanzoor120/net-monitor) | Tiny macOS menu bar app showing live upload and download speed, session data use and a 60-second graph. [Download](https://github.com/tahirmanzoor120/net-monitor/releases/latest) |
+| [**traccar_sdk**](https://github.com/tahirmanzoor120/traccar_sdk) | Fully-typed Dart & Flutter client for the Traccar REST API v6, with real-time WebSocket support. [On pub.dev](https://pub.dev/packages/traccar_sdk) |
 
 ## 🤝 Clients I've worked with
 
