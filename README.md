@@ -46,6 +46,28 @@ Open to collaboration on **Traccar development, integrations and enhancements**.
 | [**Net Monitor**](https://github.com/tahirmanzoor120/net-monitor) | Native Swift network monitor for the macOS menu bar. |
 | [**traccar_sdk**](https://github.com/tahirmanzoor120/traccar_sdk) | Dart SDK for talking to a Traccar server from Flutter apps. |
 
+## 🤝 Clients I've worked with
+
+| Client | What they do | Country |
+|---|---|---|
+| [**GPS4YOU Tracker Polska**](https://gps4you-tracker.pl/) | GPS trackers and monitoring platform | Poland |
+| [**DiscoveRig**](https://discoverig.it/) | GPS canopy trackers for skydivers | Italy |
+| [**Fleet Stack Global**](https://fleetstackglobal.com/) | Self-hosted fleet management software | — |
+| [**findCar**](https://findcargps.com/) | OBD2 vehicle GPS trackers | Spain |
+| [**findPet GPS**](https://findpetgps.com/) | Pet GPS trackers | Spain |
+| [**Saitrack GPS**](https://www.saitrackgps.com/) | Vehicle tracking and recovery | Trinidad & Tobago |
+| [**Lance East Exotics**](https://www.lanceeastexotics.com.au/) | Luxury and supercar dealership | Australia |
+| [**SmartTrackerz**](https://www.smarttrackerz.com/) | GPS tracking software | Canada |
+| [**WMR GPS Tracking**](https://wmrgps.com/) | GPS trackers, no monthly fees | Australia |
+| [**GVSS**](https://gvss.pk/) | Vehicle trackers and fleet management | Pakistan |
+| [**TrackCar**](https://www.trackcar.au/) | 4G GPS trackers | Australia |
+| [**Internet of Kaps (IOK)**](https://iok.co.zw/) | IoT and IOKTrack fleet platform | Zimbabwe |
+| [**MKING**](https://mking.pl/) | GPS trackers and security devices store | Poland |
+| [**Alfaytri**](https://www.alfaytri.com/) | AC, MEP and HVAC services | Qatar |
+| [**Spartan Tracker**](https://spartantracker.com/) | Vehicle tracking and immobilisation | UK |
+| [**Skynasa**](https://www.skynasa.com/) | Software and web development agency | Turkey |
+| [**ISIGR**](https://isigr.eu/) | Private investigation agency | Italy |
+
 ## 📊 GitHub stats
 
 <p align="center">
