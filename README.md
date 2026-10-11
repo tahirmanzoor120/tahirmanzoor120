@@ -52,7 +52,7 @@ Open to collaboration on **Traccar development, integrations and enhancements**.
 |---|---|---|
 | [**GPS4YOU Tracker Polska**](https://gps4you-tracker.pl/) | GPS trackers and monitoring platform | Poland |
 | [**DiscoveRig**](https://discoverig.it/) | GPS canopy trackers for skydivers | Italy |
-| [**Fleet Stack Global**](https://fleetstackglobal.com/) | Self-hosted fleet management software | — |
+| [**Fleet Stack Global**](https://fleetstackglobal.com/) | Self-hosted fleet management software | India |
 | [**findCar**](https://findcargps.com/) | OBD2 vehicle GPS trackers | Spain |
 | [**findPet GPS**](https://findpetgps.com/) | Pet GPS trackers | Spain |
 | [**Saitrack GPS**](https://www.saitrackgps.com/) | Vehicle tracking and recovery | Trinidad & Tobago |
