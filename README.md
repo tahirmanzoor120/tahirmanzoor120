@@ -46,13 +46,13 @@ Open to collaboration on **Traccar development, integrations and enhancements**.
 | [**Net Monitor**](https://github.com/tahirmanzoor120/net-monitor) | Tiny macOS menu bar app showing live upload and download speed, session data use and a 60-second graph. [Download](https://github.com/tahirmanzoor120/net-monitor/releases/latest) |
 | [**traccar_sdk**](https://github.com/tahirmanzoor120/traccar_sdk) | Fully-typed Dart & Flutter client for the Traccar REST API v6, with real-time WebSocket support. [On pub.dev](https://pub.dev/packages/traccar_sdk) |
 
-## 🤝 Clients I've worked with
+## 🤝 Top 20 clients I've worked with
 
 <p align="center">
-  <img src="assets/clients.svg" alt="Clients: GPS4YOU, DiscoveRig, Fleet Stack Global, findCar, findPet GPS, Saitrack GPS, Lance East Exotics, SmartTrackerz, WMR GPS, GVSS, TrackCar, Internet of Kaps, MKING, Connexiot, Alfaytri, Spartan Tracker, Skynasa, ISIGR" width="100%">
+  <img src="assets/clients.svg" alt="Top 20 clients: ASAP Tracking, GeoTrack, GPS4YOU, DiscoveRig, Fleet Stack Global, findCar, findPet GPS, Saitrack GPS, Lance East Exotics, SmartTrackerz, WMR GPS, GVSS, TrackCar, Internet of Kaps, MKING, Connexiot, Alfaytri, Spartan Tracker, Skynasa, ISIGR" width="100%">
 </p>
 
-<p align="center"><sub>Trusted by <b>18</b> businesses across <b>13</b> countries, mostly in GPS tracking, fleet and IoT.</sub></p>
+<p align="center"><sub>Trusted by <b>20</b> businesses across <b>15</b> countries, mostly in GPS tracking, fleet and IoT.</sub></p>
 
 <details>
 <summary><b>📋 View client details</b></summary>
@@ -62,23 +62,25 @@ Open to collaboration on **Traccar development, integrations and enhancements**.
 | # | Client | What they do | Country |
 |:-:|:--|:--|:--|
 | 1 | [**Alfaytri**](https://www.alfaytri.com/) | AC, MEP & HVAC services | 🇶🇦 Qatar |
-| 2 | [**Connexiot**](https://connexiot.com/) | IoT platform (launching soon) | 🇳🇱 Netherlands |
-| 3 | [**DiscoveRig**](https://discoverig.it/) | GPS canopy trackers for skydivers | 🇮🇹 Italy |
-| 4 | [**findCar**](https://findcargps.com/) | OBD2 vehicle GPS trackers | 🇪🇸 Spain |
-| 5 | [**findPet GPS**](https://findpetgps.com/) | Pet GPS trackers | 🇪🇸 Spain |
-| 6 | [**Fleet Stack Global**](https://fleetstackglobal.com/) | Self-hosted fleet management software | 🇮🇳 India |
-| 7 | [**GPS4YOU Tracker Polska**](https://gps4you-tracker.pl/) | GPS trackers & monitoring platform | 🇵🇱 Poland |
-| 8 | [**GVSS**](https://gvss.pk/) | Vehicle trackers & fleet management | 🇵🇰 Pakistan |
-| 9 | [**Internet of Kaps (IOK)**](https://iok.co.zw/) | IoT & IOKTrack fleet platform | 🇿🇼 Zimbabwe |
-| 10 | [**ISIGR**](https://isigr.eu/) | Private investigation agency | 🇮🇹 Italy |
-| 11 | [**Lance East Exotics**](https://www.lanceeastexotics.com.au/) | Luxury & supercar dealership | 🇦🇺 Australia |
-| 12 | [**MKING**](https://mking.pl/) | GPS trackers & security devices store | 🇵🇱 Poland |
-| 13 | [**Saitrack GPS**](https://www.saitrackgps.com/) | Vehicle tracking & recovery | 🇹🇹 Trinidad & Tobago |
-| 14 | [**Skynasa**](https://www.skynasa.com/) | Software & web development agency | 🇹🇷 Turkey |
-| 15 | [**SmartTrackerz**](https://www.smarttrackerz.com/) | GPS tracking software | 🇨🇦 Canada |
-| 16 | [**Spartan Tracker**](https://spartantracker.com/) | Vehicle tracking & immobilisation | 🇬🇧 United Kingdom |
-| 17 | [**TrackCar**](https://www.trackcar.au/) | 4G GPS trackers | 🇦🇺 Australia |
-| 18 | [**WMR GPS Tracking**](https://wmrgps.com/) | GPS trackers, no monthly fees | 🇦🇺 Australia |
+| 2 | [**ASAP Tracking**](https://asaptracking.ie/) | GPS tracking solutions | 🇮🇪 Ireland |
+| 3 | [**Connexiot**](https://connexiot.com/) | IoT platform (launching soon) | 🇳🇱 Netherlands |
+| 4 | [**DiscoveRig**](https://discoverig.it/) | GPS canopy trackers for skydivers | 🇮🇹 Italy |
+| 5 | [**findCar**](https://findcargps.com/) | OBD2 vehicle GPS trackers | 🇪🇸 Spain |
+| 6 | [**findPet GPS**](https://findpetgps.com/) | Pet GPS trackers | 🇪🇸 Spain |
+| 7 | [**Fleet Stack Global**](https://fleetstackglobal.com/) | Self-hosted fleet management software | 🇮🇳 India |
+| 8 | [**GeoTrack**](https://geotrack.com.py/) | Satellite tracking (rastreo satelital) | 🇵🇾 Paraguay |
+| 9 | [**GPS4YOU Tracker Polska**](https://gps4you-tracker.pl/) | GPS trackers & monitoring platform | 🇵🇱 Poland |
+| 10 | [**GVSS**](https://gvss.pk/) | Vehicle trackers & fleet management | 🇵🇰 Pakistan |
+| 11 | [**Internet of Kaps (IOK)**](https://iok.co.zw/) | IoT & IOKTrack fleet platform | 🇿🇼 Zimbabwe |
+| 12 | [**ISIGR**](https://isigr.eu/) | Private investigation agency | 🇮🇹 Italy |
+| 13 | [**Lance East Exotics**](https://www.lanceeastexotics.com.au/) | Luxury & supercar dealership | 🇦🇺 Australia |
+| 14 | [**MKING**](https://mking.pl/) | GPS trackers & security devices store | 🇵🇱 Poland |
+| 15 | [**Saitrack GPS**](https://www.saitrackgps.com/) | Vehicle tracking & recovery | 🇹🇹 Trinidad & Tobago |
+| 16 | [**Skynasa**](https://www.skynasa.com/) | Software & web development agency | 🇹🇷 Turkey |
+| 17 | [**SmartTrackerz**](https://www.smarttrackerz.com/) | GPS tracking software | 🇨🇦 Canada |
+| 18 | [**Spartan Tracker**](https://spartantracker.com/) | Vehicle tracking & immobilisation | 🇬🇧 United Kingdom |
+| 19 | [**TrackCar**](https://www.trackcar.au/) | 4G GPS trackers | 🇦🇺 Australia |
+| 20 | [**WMR GPS Tracking**](https://wmrgps.com/) | GPS trackers, no monthly fees | 🇦🇺 Australia |
 
 </details>
 
