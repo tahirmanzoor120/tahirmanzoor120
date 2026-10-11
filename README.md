@@ -67,7 +67,7 @@ Open to collaboration on **Traccar development, integrations and enhancements**.
 | [**Spartan Tracker**](https://spartantracker.com/) | Vehicle tracking and immobilisation | UK |
 | [**Skynasa**](https://www.skynasa.com/) | Software and web development agency | Turkey |
 | [**ISIGR**](https://isigr.eu/) | Private investigation agency | Italy |
-| [**Connexiot**](https://connexiot.com/) | Launching soon | — |
+| [**Connexiot**](https://connexiot.com/) | Launching soon | Netherlands |
 
 ## 📊 GitHub stats
 
