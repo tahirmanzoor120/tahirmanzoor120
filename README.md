@@ -17,8 +17,11 @@
 
 I build and customise GPS tracking platforms on top of [**Traccar**](https://www.traccar.org/), the open-source tracking server, for clients who need more than the defaults.
 
-- **Server & protocols:** Traccar server customisation, custom device protocol decoders, media/video servers (JT1078)
-- **Web:** white-label tracking dashboards and fleet portals
+- **Traccar customisation:** custom features, modules and white-label builds on top of the Traccar server
+- **Protocol writing:** decoders and encoders for new or proprietary GPS device protocols
+- **Media servers:** live video and audio streaming for vehicle cameras and DVRs (JT1078)
+- **Web front-end:** custom tracking dashboards, fleet portals and admin UIs
+- **Custom connectors & loaders:** data connectors and loaders that move Traccar data to and from other systems
 - **Mobile:** native iOS (Swift) and cross-platform (Flutter/Dart) tracking and driver apps
 - **Integrations:** SDKs, APIs and custom workflows around tracking data
 
@@ -52,7 +55,7 @@ Open to collaboration on **Traccar development, integrations and enhancements**.
   <img src="assets/clients.svg" alt="Top 20 clients: ASAP Tracking, GeoTrack, GPS4YOU, DiscoveRig, Fleet Stack Global, findCar, findPet GPS, Saitrack GPS, Lance East Exotics, SmartTrackerz, WMR GPS, GVSS, TrackCar, Internet of Kaps, MKING, Connexiot, Alfaytri, Spartan Tracker, Skynasa, ISIGR" width="100%">
 </p>
 
-<p align="center"><sub>Trusted by <b>50+</b> clients worldwide.</sub></p>
+<p align="center"><sub>Trusted by <b>100+</b> clients worldwide.</sub></p>
 
 <details>
 <summary><b>📋 View client details</b></summary>
