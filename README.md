@@ -1,9 +1,6 @@
-<h1 align="center">Hi, I'm Muhammad Tahir 👋</h1>
-
-<p align="center">
-  <b>GPS tracking & fleet software engineer</b> · <b>Traccar expert</b> · Swift, Java & Flutter developer<br>
-  Pakistan 🇵🇰 · Available for freelance work
-</p>
+<h1 align="center">
+  <img src="assets/header.svg" alt="Muhammad Tahir, GPS tracking and fleet software engineer. Traccar expert, Swift, Java and Flutter developer. Pakistan, available for freelance work." width="100%">
+</h1>
 
 <p align="center">
   <a href="mailto:tahirmanzoor120@gmail.com"><img src="https://img.shields.io/badge/Email-tahirmanzoor120%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
